@@ -1,0 +1,38 @@
+References:
+
+1.	Li, S. Y., Chen, C., Zhang, H. Q., Guo, H. Y., Wang, H., Wang, L., & Li, R. S. (2005). Identification of natural compounds with antiviral activities against SARS-associated coronavirus. Antiviral research, 67(1), 18-23.
+2.	Lin, C. W., Tsai, F. J., Tsai, C. H., Lai, C. C., Wan, L., Ho, T. Y., & Chao, P. D. L. (2005). Anti-SARS coronavirus 3C-like protease effects of Isatis indigotica root and plant-derived phenolic compounds. Antiviral research, 68(1), 36-42.
+3.	Ryu, Y. B., Jeong, H. J., Kim, J. H., Kim, Y. M., Park, J. Y., Kim, D., & Rho, M. C. (2010). Biflavonoids from Torreya nucifera displaying SARS-CoV 3CLpro inhibition. Bioorganic & medicinal chemistry, 18(22), 7940-7947.
+4.	Yu, M. S., Lee, J., Lee, J. M., Kim, Y., Chin, Y. W., Jee, J. G., & Jeong, Y. J. (2012). Identification of myricetin and scutellarein as novel chemical inhibitors of the SARS coronavirus helicase, nsP13. Bioorganic & medicinal chemistry letters, 22(12), 4049-4054.
+5.	Lau, K. M., Lee, K. M., Koon, C. M., Cheung, C. S. F., Lau, C. P., Ho, H. M., ... & Tsui, S. K. W. (2008). Immunomodulatory and anti-SARS activities of Houttuynia cordata. Journal of Ethnopharmacology, 118(1), 79-85.
+6.	Akram, M., Tahir, I. M., Shah, S. M. A., Mahmood, Z., Altaf, A., Ahmad, K., & Mehboob, H. (2018). Antiviral potential of medicinal plants against HIV, HSV, influenza, hepatitis, and coxsackievirus: A systematic review. Phytotherapy Research, 32(5), 811-822.
+7.	Moghadamtousi, S. Z., Nikzad, S., Kadir, H. A., Abubakar, S., & Zandi, K. (2015). Potential antiviral agents from marine fungi: an overview. Marine drugs, 13(7), 4520-4538.
+8.	Nagle, V., Gaikwad, M., Pawar, Y., & Dasgupta, S. (2020). Marine Red Alga Porphyridium sp. as a Source of Sulfated Polysaccharides (SPs) for Combating Against COVID-19.
+9.	Lahaye, M., & Ray, B. (1996). Cell-wall polysaccharides from the marine green alga Ulva "rigida" (Ulvales, Chlorophyta)—NMR analysis of ulvan oligosaccharides. Carbohydrate research, 283, 161-173.
+10.	Wilkie, K. C. B. (1968). Chemistry and enzymology of marine algal polysaccharides, Academic Press, NY, USA.
+11.	Schaeffer, D. J., & Krylov, V. S. (2000). Anti-HIV activity of extracts and compounds from algae and cyanobacteria. Ecotoxicology and environmental safety, 45(3), 208-227.
+12.	Damonte, E. B., Matulewicz, M. C., & Cerezo, A. S. (2004). Sulfated seaweed polysaccharides as antiviral agents. Current medicinal chemistry, 11(18), 2399-2419.
+13.	Luescher-Mattli, M. (2003). Algae, a possible source for new drugs in the treatment of HIV and other viral diseases. Current Medicinal Chemistry-Anti-Infective Agents, 2(3), 219-225.
+14.	Jiao, G., Yu, G., Zhang, J., & Ewart, H. S. (2011). Chemical structures and bioactivities of sulfated polysaccharides from marine algae. Marine drugs, 9(2), 196-223.
+15.	World Health Organization. (2020). Q&A on coronaviruses (COVID-19). Available from: https://www.who.int/news-room/q-a-detail/q-a-coronaviruses . Accessed May 15, 2020
+16.	Luo, H., Tang, Q. L., Shang, Y. X., Liang, S. B., Yang, M., Robinson, N., & Liu, J. P. (2020). Can Chinese medicine be used for prevention of corona virus disease 2019 (COVID-19)? A review of historical classics, research evidence and current prevention programs. Chinese journal of integrative medicine, 1-8.
+17.	National Health Commission of China. Notice on the issuance of the new 7th version of the COVID-19 diagnosis and treatment guideline. Available from: http://www.nhc.gov.cn/yzygj/s7653p/202003/46c9294a7dfe4cef80dc7f5912eb1989.shtml. Accessed May 19, 2020.
+18.	Announcement of the first version of Oriental Medicice Clinical Practice Guideline by the National University Network of Traditional Medicine Department of Internal Medicine. (2020). Available from: http://akomnews.com/bbs/board.php?bo_table=news&wr_id=38324 . Accessed May 19, 2020
+19.	Press Information Bureau (2020). Advisory for Corona virus Homoeopathy for Prevention of Corona virus Infections Unani Medicines useful in symptomatic management of Corona Virus infection. https://pib.gov.in/PressReleasePage.aspx?PRID=1600895. Accessed: May 19, 2020
+20.	Li, T., & Peng, T. (2013). Traditional Chinese herbal medicine as a source of molecules with antiviral activity. Antiviral research, 97(1), 1-9.
+21.	Chen, F., Chan, K. H., Jiang, Y., Kao, R. Y. T., Lu, H. T., Fan, K. W., ... & Guan, Y. (2004). In vitro susceptibility of 10 clinical isolates of SARS coronavirus to selected antiviral compounds. Journal of Clinical Virology, 31(1), 69-75.
+22.	Hindustan Times. (2020). Trials for 4 AYUSH formulations against Covid-19 to start within a week, says minister. Retrieved 21 May 2020, from https://www.hindustantimes.com/india-news/trials-for-4-ayush-formulations-against-covid-19-to-start-within-a-week-says-minister/story-XU9RsNDC3vLrFukt3gOApK.html
+23.	The Print. (2020). Ramdev's Patanjali submits a herbs+hydroxychloroquine plan to treat Covid-19. Retrieved 22 May 2020, from https://theprint.in/health/ramdevs-patanjali-submits-a-herbshydroxychloroquine-plan-to-treat-covid-19/394797/ 
+24.	Traffic. (2020). COVID-19—the role of wild plants in health treatment and why sustainability of their trade matters. Retrieved 21 May 2020, from https://www.traffic.org/news/covid-19-the-role-of-wild-plants-in-health-treatment/ 
+25.	Japanese Association for Infectious Diseases and Japanese Respiratory Society. (2020). JRS Guidelines. Retrieved 22 May 2020, from https://www.jrs.or.jp/modules/guidelines/ 
+26.	Taiwan Centres for Disease Control. (2020). Special Topics on Infectious Diseases and Epidemic Control. Retrieved 23 May 2020, from https://www.cdc.gov.tw/ 
+27.	Centre for Health Protection of the Hong Kong Special Administrative Region. (2020). Resources. Retrieved 23 May 2020, from https://www.chp.gov.hk/
+28.	GitHub. (2020). Traditional-medicine-Information-Collective (TIC). Retrieved 23 May 2020, from https://github.com/snehangshudas/Traditional-medicine-Information-Collective-TIC- 
+29.	World Health Organisation. (2020). WHO supports scientifically-proven traditional medicine. Retrieved 23 May 2020, from https://www.afro.who.int/news/who-supports-scientifically-proven-traditional-medicine 
+30.	The Hindu. (2020). WHO cautions against untested COVID-19 traditional remedies. (2020). Retrieved 23 May 2020, from https://www.thehindu.com/news/international/who-cautions-against-untested-covid-19-traditional-remedies/article31506136.ece 
+31.	Time. (2020). 'Could It Work as a Cure? Maybe.' A Herbal Remedy for Coronavirus Is a Hit in Africa, But Experts Have Their Doubts. Retrieved 23 May 2020, from https://time.com/5840148/coronavirus-cure-covid-organic-madagascar/ 
+32.	Fauci, A. S., Lane, H. C., & Redfield, R. R. (2020). Covid-19—navigating the uncharted.
+33.	Medical News Today. (2020). Pandemics: Past, present, and future. Retrieved 23 May 2020, from https://www.medicalnewstoday.com/articles/148945 
+34.	World Economic Forum. (2020). Scientists warn worse pandemics are on the way if we don't protect nature. Retrieved 23 May 2020, from https://www.weforum.org/agenda/2020/05/scientists-pandemics-coronavirus-nature-covid19-health/ 
+35.	First Opinion. (2020). The global appetite for meat increases the risk of future pandemics - STAT. Retrieved 23 May 2020, from https://www.statnews.com/2020/05/21/growing-global-appetite-meat-risk-future-spillover-pandemics/ 
+36.	Time. (2020). COVID-19 Won't Be the Last Pandemic. Here's What We Can Do to Protect Ourselves. (2020). Retrieved 23 May 2020, from https://time.com/5820607/nathan-wolfe-coronavirus-future-pandemic/ 
