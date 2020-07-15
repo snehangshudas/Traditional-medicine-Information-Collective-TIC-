@@ -8,6 +8,6 @@ Anyone can contribute to this database with valid herbal formulations approved b
 Snehangshu Das ``email: snehangshudas3@gmail.com``
 
 ## License
-This project is licensed under the Creative Commons Zero v1.0 Universal - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Creative Commons Zero v1.0 Universal - see the [LICENSE](LICENSE) file for details
 
 ## NOTE: This is a citizen-scientist collaboration on developing a public inventory for traditional medicines.
